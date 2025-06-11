@@ -1,9 +1,9 @@
 streamlit
 transformers
 torch
+torchvision
 Pillow
 opencv-python-headless
 streamlit-webrtc
 pandas
-collections
-pandas
+numpy
