@@ -164,7 +164,7 @@ with tab1:
         else:
             st.warning("Tidak ada wajah yang terdeteksi pada gambar ini.")
     else:
-        st.info("Silakan unggah sebuah gambar melalui panel di sebelah kiri.")
+        st.info("Unggah gambar di side bar.")
 
 with tab2:
     st.header("Aktifkan Kamera untuk Deteksi Real-Time")
